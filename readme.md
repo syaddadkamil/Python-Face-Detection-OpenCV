@@ -1,4 +1,4 @@
-## pyface
+## PYFACE
 # py -m venv face_env
 # face_env\Scripts\activate
 # pip install opencv-python / py -m pip install opencv-python
